@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\computer science\\ryokoinostorehouse\\exercise_loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763B0955-4775-48C5-B843-F6F8F7491A7E}|exercise_loop\\exercise_loop.vcxproj|D:\\computer science\\ryokoinostorehouse\\exercise_loop\\exercise_loop\\loop_exercise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{763B0955-4775-48C5-B843-F6F8F7491A7E}|exercise_loop\\exercise_loop.vcxproj|solutionrelative:exercise_loop\\loop_exercise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loop_exercise.c",
+              "DocumentMoniker": "D:\\computer science\\ryokoinostorehouse\\exercise_loop\\exercise_loop\\loop_exercise.c",
+              "RelativeDocumentMoniker": "exercise_loop\\loop_exercise.c",
+              "ToolTip": "D:\\computer science\\ryokoinostorehouse\\exercise_loop\\exercise_loop\\loop_exercise.c*",
+              "RelativeToolTip": "exercise_loop\\loop_exercise.c*",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-10T06:19:29.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

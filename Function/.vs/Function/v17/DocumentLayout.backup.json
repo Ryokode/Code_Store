@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\computer science\\ryokoinostorehouse\\Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEAB54A-7ACD-4EDF-AEB3-DAB7C7F09034}|Function\\Function.vcxproj|D:\\computer science\\ryokoinostorehouse\\Function\\Function\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DEAB54A-7ACD-4EDF-AEB3-DAB7C7F09034}|Function\\Function.vcxproj|solutionrelative:Function\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.c",
+              "DocumentMoniker": "D:\\computer science\\ryokoinostorehouse\\Function\\Function\\Function.c",
+              "RelativeDocumentMoniker": "Function\\Function.c",
+              "ToolTip": "D:\\computer science\\ryokoinostorehouse\\Function\\Function\\Function.c",
+              "RelativeToolTip": "Function\\Function.c",
+              "ViewState": "AgIAAN8BAAAAAAAAAAAAAPMBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-19T02:48:20.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
