@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\computer science\\ryokoinostorehouse\\Function_exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D1585F-1A56-48E0-9FFE-ADB004A109B8}|Function_exercises\\Function_exercises.vcxproj|D:\\computer science\\ryokoinostorehouse\\Function_exercises\\Function_exercises\\exercises_fuction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D1585F-1A56-48E0-9FFE-ADB004A109B8}|Function_exercises\\Function_exercises.vcxproj|solutionrelative:Function_exercises\\exercises_fuction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercises_fuction.c",
+              "DocumentMoniker": "D:\\computer science\\ryokoinostorehouse\\Function_exercises\\Function_exercises\\exercises_fuction.c",
+              "RelativeDocumentMoniker": "Function_exercises\\exercises_fuction.c",
+              "ToolTip": "D:\\computer science\\ryokoinostorehouse\\Function_exercises\\Function_exercises\\exercises_fuction.c",
+              "RelativeToolTip": "Function_exercises\\exercises_fuction.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-17T01:34:00.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
