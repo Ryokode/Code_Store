@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial- cale=1.0">
+    <title>题库首页</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>欢迎来到题库系统</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="上传题目文件">
+    </form>
+    <a href="{{ url_for('start_quiz', category='所有题目', order='asc') }}">按顺序刷题</a><br>
+    <a href="{{ url_for('start_quiz', category='所有题目', order='desc') }}">乱序刷题</a><br>
+    <a href="{{ url_for('wrong_set_view') }}">进入错题集</a>
+</body>
+</html>

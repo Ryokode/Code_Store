@@ -1,0 +1,7 @@
+Flask
+pymysql
+pandas
+python-docx
+PyPDF2
+openpyxl
+flask_sqlalchemy

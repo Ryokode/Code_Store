@@ -1,0 +1,4 @@
+﻿  源.c
+/源.c(1,1): error C1083: 无法打开源文件: “源.c”: No such file or directory
+  (编译源文件“/源.c”)
+  

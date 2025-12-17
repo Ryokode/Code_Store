@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>题目</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h2>{{ question.text }}</h2>
+    {% if question.image_path %}
+        <img src="{{ url_for('static', filename='img/' + question.image_path) }}" alt="题目图片">
+    {% endif %}
+    {% if question.type == '单选题' or question.type == '多选题' %}
+        <form action="/answer" method="post">
+            {% for option in question.options.split(',') %}
+                <input type="radio" name="answer" value="{{ option.strip() }}">{{ option.strip() }}<br>
+            {% endfor %}
+            <input type="submit" value="提交答案">
+        </form>
+    {% elif question.type == '填空题' %}
+        <form action="/answer" method="post">
+            <input type="text" name="answer">
+            <input type="submit" value="提交答案">
+        </form>
+    {% elif question.type == '简答题' %}
+        <form action="/answer" method="post">
+            <textarea name="answer"></textarea>
+            <input type="submit" value="提交答案">
+        </form>
+    {% elif question.type == '判断题' %}
+        <form action="/answer" method="post">
+            <input type="radio" name="answer" value="正确">正确<br>
+            <input type="radio" name="answer" value="错误">错误<br>
+            <input type="submit" value="提交答案">
+        </form>
+    {% endif %}
+</body>
+</html>

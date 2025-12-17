@@ -1,0 +1,14 @@
+body {
+    font-family:Arial,sans-serif;
+    background-color:#e6f7ff; /* 浅蓝色背景 */
+    margin:0;
+    padding:0;
+}
+
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}

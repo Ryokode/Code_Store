@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Projects\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A0E0B8-5540-4601-80F0-A63883A5431C}|Project3\\Project3.vcxproj|D:\\C Projects\\Project3\\Project3\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53A0E0B8-5540-4601-80F0-A63883A5431C}|Project3\\Project3.vcxproj|solutionrelative:Project3\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A0E0B8-5540-4601-80F0-A63883A5431C}|Project3\\Project3.vcxproj|D:\\C Projects\\Project3\\Project3\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53A0E0B8-5540-4601-80F0-A63883A5431C}|Project3\\Project3.vcxproj|solutionrelative:Project3\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.c",
+              "DocumentMoniker": "D:\\C Projects\\Project3\\Project3\\1.c",
+              "RelativeDocumentMoniker": "Project3\\1.c",
+              "ToolTip": "D:\\C Projects\\Project3\\Project3\\1.c",
+              "RelativeToolTip": "Project3\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-13T07:57:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "D:\\C Projects\\Project3\\Project3\\2.c",
+              "RelativeDocumentMoniker": "Project3\\2.c",
+              "ToolTip": "D:\\C Projects\\Project3\\Project3\\2.c",
+              "RelativeToolTip": "Project3\\2.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-13T07:04:39.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
