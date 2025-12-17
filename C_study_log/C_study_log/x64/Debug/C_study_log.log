@@ -1,0 +1,4 @@
+﻿  C_study_log.c
+D:\computer science\ryokoinostorehouse\C_study_log\C_study_log\C_study_log.c(108,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\computer science\ryokoinostorehouse\C_study_log\C_study_log\C_study_log.c(109,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  C_study_log.vcxproj -> D:\computer science\ryokoinostorehouse\C_study_log\x64\Debug\C_study_log.exe
