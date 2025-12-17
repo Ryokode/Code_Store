@@ -1,0 +1,3 @@
+﻿  union.c
+D:\computer science\ryokoi_2nd_code_store\Union\Union\union.c(170,4): warning C4013: “gets”未定义；假设外部返回 int
+  Union.vcxproj -> D:\computer science\ryokoi_2nd_code_store\Union\x64\Debug\Union.exe
