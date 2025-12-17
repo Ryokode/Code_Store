@@ -1,0 +1,4 @@
+﻿  function_design_2.c
+D:\computer science\ryokoinostorehouse\Function_design_2\Function_design_2\function_design_2.c(77,3): warning C4013: “gets”未定义；假设外部返回 int
+D:\computer science\ryokoinostorehouse\Function_design_2\Function_design_2\function_design_2.c(116,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Function_design_2.vcxproj -> D:\computer science\ryokoinostorehouse\Function_design_2\x64\Debug\Function_design_2.exe
