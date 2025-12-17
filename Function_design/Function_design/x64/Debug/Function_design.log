@@ -1,0 +1,3 @@
+﻿  function_design.c
+D:\computer science\ryokoinostorehouse\Function_design\Function_design\function_design.c(107,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Function_design.vcxproj -> D:\computer science\ryokoinostorehouse\Function_design\x64\Debug\Function_design.exe

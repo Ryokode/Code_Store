@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\computer science\\ryokoinostorehouse\\Function_design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32332DAC-B718-4C45-84E6-5A84BE3C8F0E}|Function_design\\Function_design.vcxproj|D:\\computer science\\ryokoinostorehouse\\Function_design\\Function_design\\function_design.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32332DAC-B718-4C45-84E6-5A84BE3C8F0E}|Function_design\\Function_design.vcxproj|solutionrelative:Function_design\\function_design.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function_design.c",
+              "DocumentMoniker": "D:\\computer science\\ryokoinostorehouse\\Function_design\\Function_design\\function_design.c",
+              "RelativeDocumentMoniker": "Function_design\\function_design.c",
+              "ToolTip": "D:\\computer science\\ryokoinostorehouse\\Function_design\\Function_design\\function_design.c*",
+              "RelativeToolTip": "Function_design\\function_design.c*",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-20T01:27:37.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
