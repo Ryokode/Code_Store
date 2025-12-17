@@ -1,0 +1,4 @@
+﻿  exercises_array.c
+D:\computer science\ryokoinostorehouse\Array_exercises\Array_exercises\exercises_array.c(392,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\computer science\ryokoinostorehouse\Array_exercises\Array_exercises\exercises_array.c(388,9): warning C4101: “j”: 未引用的局部变量
+  Array_exercises.vcxproj -> D:\computer science\ryokoinostorehouse\Array_exercises\x64\Debug\Array_exercises.exe

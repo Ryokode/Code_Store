@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\computer science\\ryokoinostorehouse\\Array_homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E05B46-87B7-4F43-B2E7-BD7D1EB44521}|Array_homework\\Array_homework.vcxproj|D:\\computer science\\ryokoinostorehouse\\Array_homework\\Array_homework\\homewoek.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3E05B46-87B7-4F43-B2E7-BD7D1EB44521}|Array_homework\\Array_homework.vcxproj|solutionrelative:Array_homework\\homewoek.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homewoek.c",
+              "DocumentMoniker": "D:\\computer science\\ryokoinostorehouse\\Array_homework\\Array_homework\\homewoek.c",
+              "RelativeDocumentMoniker": "Array_homework\\homewoek.c",
+              "ToolTip": "D:\\computer science\\ryokoinostorehouse\\Array_homework\\Array_homework\\homewoek.c",
+              "RelativeToolTip": "Array_homework\\homewoek.c",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-09T07:27:05.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
